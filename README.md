@@ -11,7 +11,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toolboxcloudservices&theme=light" alt="toolboxcloudservices" />
 </p>
 
-🔭 I’m currently working on: VirtualXP & SentinelOne API Integration
+🔭 I’m currently working on: My own personal projects
 
 🌱 I’m currently learning: Advanced Python for Cybersecurity, SentinelOne API Integration, Pygame for Game Development, Security+ Certification Preparation
 
