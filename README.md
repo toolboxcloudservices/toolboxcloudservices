@@ -13,8 +13,7 @@
 
 🔭 I’m currently working on: My own personal projects
 
-🌱 I’m currently learning: Advanced Python for Cybersecurity, SentinelOne API Integration, Pygame for Game Development, Security+ Certification Preparation
-
+🌱 I’m currently learning: Immersive Labs / Game Development 
 👯 I’m looking to collaborate on: AI Projects
 
 💬 Ask me about: Full Stack Development, Cybersecurity Best Practices, AI and Machine Learning, Pygame Projects, SentinelOne API Integration, Innovative Tech Solutions, Building AI SaaS Platforms, Effective Team Collaboration
