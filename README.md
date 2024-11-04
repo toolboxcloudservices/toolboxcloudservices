@@ -17,14 +17,7 @@
 
 👯 I’m looking to collaborate on: AI Projects
 
-🤝 I’m looking for help with: SentinelOne API Use Cases
-
 💬 Ask me about: Full Stack Development, Cybersecurity Best Practices, AI and Machine Learning, Pygame Projects, SentinelOne API Integration, Innovative Tech Solutions, Building AI SaaS Platforms, Effective Team Collaboration
-
-<h3 align="left">📫 How to reach me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/servizsell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="servizsell" height="30" width="40" /></a>
-</p>
 
 <p><h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
