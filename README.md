@@ -7,10 +7,6 @@
 <img width="200" src="https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif" alt="futuristic_dashboard" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toolboxcloudservices&theme=light" alt="toolboxcloudservices" />
-</p>
-
 🔭 I’m currently working on: My own personal projects
 
 🌱 I’m currently learning: Immersive Labs / Game Development 
