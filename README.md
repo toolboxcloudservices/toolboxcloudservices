@@ -1,4 +1,4 @@
-<img src="https://i.imghippo.com/files/ULy2s1718854261.png" alt="coding" width="100%" height="470"/>
+<img src="https://i.imghippo.com/files/ULy2s1718854261.png" alt="coding" width="100%" height="100%"/>
 
 <h1 align="center">Hi 👋, I'm DeAnna</h1>
 <h3 align="center">Crafting the Future with Vision</h3>
