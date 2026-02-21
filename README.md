@@ -5,12 +5,7 @@
 <img width="200" src="https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif" alt="futuristic_dashboard" />
 </p>
 
-🔭 I’m currently working on: My own personal projects
-
-🌱 I’m currently learning: Immersive Labs / Game Development 
-👯 I’m looking to collaborate on: AI Projects
-
-💬 Ask me about: Full Stack Development, Cybersecurity Best Practices, AI and Machine Learning, Pygame Projects, SentinelOne API Integration, Innovative Tech Solutions, Building AI SaaS Platforms, Effective Team Collaboration
+Specializing in building secure, scalable infrastructure for Large Language Models (LLMs). Bridging the gap between Cybersecurity compliance and Generative AI deployment using Python and AWS.
 
 <p><h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
