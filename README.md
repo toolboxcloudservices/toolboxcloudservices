@@ -7,10 +7,4 @@
 
 Specializing in building secure, scalable infrastructure for Large Language Models (LLMs). Bridging the gap between Cybersecurity compliance and Generative AI deployment using Python and AWS.
 
-<p><h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,pycharm,phpstorm,pytorch,opencv,postgresql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,flask,laravel,php,vuejs,webpack,babel,nginx,sqlite,aws,docker,kubernetes,illustrator,photoshop,postman,linux,kali" /><br>
-</div></p>
 
