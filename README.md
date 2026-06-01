@@ -23,4 +23,3 @@ I partner with businesses to replace manual operational bottlenecks with secure,
 * **Secure AI Gateways:** Building "Safe-AI" middleware with prompt injection protection, PII scanning, and strict least-privilege tool enforcement.
 * **Custom Command Centers:** Designing persistent, human-in-the-loop dashboards (React/Supabase) to securely monitor and guide AI execution.
 
-📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/wonderwoman29) | [Portfolio](https://deannasfolio.vercel.app)
